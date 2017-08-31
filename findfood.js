@@ -21,4 +21,8 @@ var foods = [
 ];
 console.log(foods.indexOf('Pho'));
 //console.log(foods.indexOf(foods.shift('Donuts'));
-console.log(foods.inddexOf('Donuts');
+console.log(foods.indexOf('Donuts'));
+//deletes donut
+console.log(foods.splice(13,1));
+//shoes its no longer there
+console.log(foods);
